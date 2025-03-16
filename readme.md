@@ -25,6 +25,7 @@
 ### 3️⃣ Xử lý tin nhắn văn bản
 - Khi người dùng gửi tin nhắn không phải file, bot sẽ hướng dẫn cách sử dụng.
 
+### Click vào ảnh để tới trang youtube coi DemoDemo
 [![Xem video demo](https://github.com/QuangCler/Telegram_AITalentBot_v2/blob/main/demo.png)](https://youtu.be/0oltPutdLrk)
 ## ⚙️ Cài đặt và chạy bot
 ### 1. Cấu hình biến môi trường
